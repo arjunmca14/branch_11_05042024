@@ -1,0 +1,4 @@
+Select the Item
+add cart 
+payment for that item
+delevery to your address
